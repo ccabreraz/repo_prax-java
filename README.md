@@ -1,4 +1,4 @@
-repo_prac-java
+repo_prax-java
 ==============
 
 Repositorio de praxis java.
